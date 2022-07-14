@@ -4,7 +4,7 @@ string number = Console.ReadLine();
 int index = 2;
 if (index < number.Length)
 {
-    Console.WriteLine ("Третья цифра числа:" + number[2]);
+    Console.WriteLine("Третья цифра числа:" + number[2]);
 }
 else
 {

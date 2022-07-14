@@ -8,9 +8,9 @@ if (day == 6 | day == 7)
 }
 else if (day > 0 & day < 6)
 {
-     Console.WriteLine("Рабочий день");
+    Console.WriteLine("Рабочий день");
 }
-else 
+else
 {
-     Console.WriteLine("Такого дня недели нет");
+    Console.WriteLine("Такого дня недели нет");
 }
